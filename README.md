@@ -1,0 +1,2 @@
+# Wordinal
+ Wordle in Terminal
